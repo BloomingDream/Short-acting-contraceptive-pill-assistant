@@ -6,3 +6,6 @@ This project is an assistant for taking short-acting contraceptives. It provides
 如果你对 python 不是很熟悉，可以直接使用已经生成完成的链接列表，我会在未来添加一个计算器来帮助您确认应该订阅的日历。
 
 If you are not very familiar with python, you can directly use the already generated list of links, and I will add a calculator in the future to help you determine which calendars you should subscribe to.
+
+已知Bug：无法被 outlook 订阅，解决方法未知，请知道怎么解决的朋友帮助
+Known Bug: Cannot be subscribed by outlook, the solution is unknown, please help me who knows how to solve it
